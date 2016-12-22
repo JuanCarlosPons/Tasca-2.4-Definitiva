@@ -1,0 +1,37 @@
+body {
+	background-image: url("../img/fondo.png");
+	font-family: Arial, Verdana;
+}
+
+body, html {
+	height: auto;
+	padding: 0px;
+	margin: 0px
+}
+
+.div-general {
+	color: yellow;
+	background-color: #FF380C;
+	max-width: 40%;
+	margin-top: 3%;
+	margin-left: 30%;
+	padding: 10px 30px;
+	border: solid 2px #DCDCDC;
+	border-radius: 5px;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+	color: yellow;
+}
+
+a:hover {
+    color: blue;
+}
